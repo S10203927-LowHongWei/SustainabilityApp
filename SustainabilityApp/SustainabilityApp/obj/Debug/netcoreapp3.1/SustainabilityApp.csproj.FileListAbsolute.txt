@@ -40,3 +40,45 @@ C:\Users\lowho\OneDrive - Ngee Ann Polytechnic\Desktop\Year 2 Sem 2\PFD\Assignme
 C:\Users\lowho\OneDrive - Ngee Ann Polytechnic\Desktop\Year 2 Sem 2\PFD\Assignment\SustainabilityApp\SustainabilityApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\lowho\OneDrive - Ngee Ann Polytechnic\Desktop\Year 2 Sem 2\PFD\Assignment\SustainabilityApp\SustainabilityApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\lowho\OneDrive - Ngee Ann Polytechnic\Desktop\Year 2 Sem 2\PFD\Assignment\SustainabilityApp\SustainabilityApp\obj\Debug\netcoreapp3.1\SustainabilityApp.csproj.AssemblyReference.cache
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\bin\Debug\netcoreapp3.1\SustainabilityApp.exe
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\bin\Debug\netcoreapp3.1\SustainabilityApp.deps.json
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\bin\Debug\netcoreapp3.1\SustainabilityApp.runtimeconfig.json
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\bin\Debug\netcoreapp3.1\SustainabilityApp.runtimeconfig.dev.json
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\bin\Debug\netcoreapp3.1\SustainabilityApp.dll
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\bin\Debug\netcoreapp3.1\SustainabilityApp.pdb
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\bin\Debug\netcoreapp3.1\SustainabilityApp.Views.dll
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\bin\Debug\netcoreapp3.1\SustainabilityApp.Views.pdb
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\obj\Debug\netcoreapp3.1\SustainabilityApp.csproj.AssemblyReference.cache
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\obj\Debug\netcoreapp3.1\SustainabilityApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\obj\Debug\netcoreapp3.1\SustainabilityApp.AssemblyInfoInputs.cache
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\obj\Debug\netcoreapp3.1\SustainabilityApp.AssemblyInfo.cs
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\obj\Debug\netcoreapp3.1\SustainabilityApp.csproj.CoreCompileInputs.cache
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\obj\Debug\netcoreapp3.1\SustainabilityApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\obj\Debug\netcoreapp3.1\SustainabilityApp.RazorAssemblyInfo.cache
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\obj\Debug\netcoreapp3.1\SustainabilityApp.RazorAssemblyInfo.cs
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\obj\Debug\netcoreapp3.1\staticwebassets\SustainabilityApp.StaticWebAssets.Manifest.cache
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\obj\Debug\netcoreapp3.1\SustainabilityApp.TagHelpers.input.cache
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\obj\Debug\netcoreapp3.1\SustainabilityApp.TagHelpers.output.cache
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\obj\Debug\netcoreapp3.1\SustainabilityApp.RazorCoreGenerate.cache
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\obj\Debug\netcoreapp3.1\SustainabilityApp.RazorTargetAssemblyInfo.cache
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\obj\Debug\netcoreapp3.1\SustainabilityApp.RazorTargetAssemblyInfo.cs
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\obj\Debug\netcoreapp3.1\SustainabilityApp.Views.pdb
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\obj\Debug\netcoreapp3.1\SustainabilityApp.csproj.CopyComplete
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\obj\Debug\netcoreapp3.1\SustainabilityApp.dll
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\obj\Debug\netcoreapp3.1\SustainabilityApp.pdb
+C:\Users\tanwe\source\repos\PFD Sustainabillity app\SustainabilityApp\SustainabilityApp\obj\Debug\netcoreapp3.1\SustainabilityApp.genruntimeconfig.cache
