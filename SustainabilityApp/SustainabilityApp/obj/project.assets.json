@@ -454,24 +454,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lowho\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\tanwe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lowho\\OneDrive - Ngee Ann Polytechnic\\Desktop\\Year 2 Sem 2\\PFD\\Assignment\\SustainabilityApp\\SustainabilityApp\\SustainabilityApp.csproj",
+      "projectUniqueName": "C:\\Users\\tanwe\\source\\repos\\PFD Sustainabillity app\\SustainabilityApp\\SustainabilityApp\\SustainabilityApp.csproj",
       "projectName": "SustainabilityApp",
-      "projectPath": "C:\\Users\\lowho\\OneDrive - Ngee Ann Polytechnic\\Desktop\\Year 2 Sem 2\\PFD\\Assignment\\SustainabilityApp\\SustainabilityApp\\SustainabilityApp.csproj",
-      "packagesPath": "C:\\Users\\lowho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lowho\\OneDrive - Ngee Ann Polytechnic\\Desktop\\Year 2 Sem 2\\PFD\\Assignment\\SustainabilityApp\\SustainabilityApp\\obj\\",
+      "projectPath": "C:\\Users\\tanwe\\source\\repos\\PFD Sustainabillity app\\SustainabilityApp\\SustainabilityApp\\SustainabilityApp.csproj",
+      "packagesPath": "C:\\Users\\tanwe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tanwe\\source\\repos\\PFD Sustainabillity app\\SustainabilityApp\\SustainabilityApp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\lowho\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\tanwe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
